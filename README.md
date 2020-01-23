@@ -1,1 +1,1 @@
-# Spam-Non-spam-Classifier-Using-Native-Bayes-
+# Spam-Non-spam-Classifier-Using-Native-Bayes
